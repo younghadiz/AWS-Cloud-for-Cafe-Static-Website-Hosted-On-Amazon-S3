@@ -13,3 +13,6 @@ I implemented a disaster recovery (DR) strategy in Amazon S3 by adding versionin
 
 # Architecture 
 <img src="https://raw.githubusercontent.com/younghadiz/AWS-Cloud-for-Cafe-Static-Website-Hosted-On-Amazon-S3/92e6ddc4bc0ed66aa7d4554d8bc8bfabda8dc18e/cloud_architecture_for_cafe_static_website_hosted_on_amazon_s3.png" />
+
+# Cafe Website Hosted on Amazon S3 Link
+<a href="http://cafe-bucket-for-static-website-hosting.s3-website.eu-north-1.amazonaws.com/">http://cafe-bucket-for-static-website-hosting.s3-website.eu-north-1.amazonaws.com/</a>
