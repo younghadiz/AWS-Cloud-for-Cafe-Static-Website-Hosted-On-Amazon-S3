@@ -10,3 +10,6 @@ I implemented one way to protect the data with Amazon S3.
 I implemented a data lifecycle strategy in Amazon S3 for cost effective class storage.
 
 I implemented a disaster recovery (DR) strategy in Amazon S3 by adding versioning and cross region replication.
+
+# Architecture 
+<img src="https://raw.githubusercontent.com/younghadiz/AWS-Cloud-for-Cafe-Static-Website-Hosted-On-Amazon-S3/92e6ddc4bc0ed66aa7d4554d8bc8bfabda8dc18e/cloud_architecture_for_cafe_static_website_hosted_on_amazon_s3.png" />
