@@ -1,4 +1,4 @@
-# AWS Cloud Arcfor Cafe-Static-Website-Hosted-On-Amazon-S3
+# AWS Cloud for Cafe Static Website Hosted On Amazon S3
 A small café business that sells desserts and coffee. The café has a reputation for high-quality desserts and coffees, but the café's reputation is limited to people who have visited or who have heard about it from other café customers. I suggested that they should expand community awareness of what the café has to offer by having a web presence with a scalable and high availability of the Cafe website on the cloud services.
 
 # Cloud Overview and Objectives on Static Website Hosting
